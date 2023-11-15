@@ -1,0 +1,2 @@
+docker build -t ng-docker-example .
+docker run -p 80:80 shop
